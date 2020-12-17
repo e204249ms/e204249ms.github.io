@@ -1,0 +1,36 @@
+body{
+    background-image:url(../images/haikei.jpg);
+}
+.game1{
+    text-align:center;
+}    
+.game2{
+    text-align:center;
+}    
+.link{
+    text-align:center;
+}    
+.main{
+    text-align:center;
+}    
+h1{
+    background-color: crimson;
+}
+.game1{
+    background-color:aliceblue;
+}    
+.game2{
+    background-color:black;
+}   
+.game1{
+    color:black
+}   
+.game2{
+    color:aliceblue;
+} 
+.link{
+    background-color:limegreen;
+}
+.link{
+    color:dodgerblue;
+}
