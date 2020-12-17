@@ -1,0 +1,62 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: aquamarine;
+    font-size: 30px;
+    font-family: "impact";
+    margin-bottom:20px;
+}
+div.center{
+   font-size: 0px;
+}
+div.menuitem{
+    vertical-align:top;
+    display:inline-block;
+    text-align: center;
+}
+div.menu{
+    width:250px;
+    height:100px;
+    margin-bottom: 10px;
+    font-size:30px;
+    background-color: darkred;
+}
+
+div.imageblock{
+    vertical-align:top;
+    display:inline-block;
+    margin-left: 50px;
+}
+
+div.image{
+    background-color: antiquewhite;
+    width:700px;
+    height:300px;
+    font-size: 30px;
+    text-align: center;
+}
+div.imagesetumei{
+    background-color: crimson;
+    width:700px;
+    height:20px; 
+    font-size:15px;
+    font-family: "impact";
+    text-align: center;
+    
+}
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: forestgreen;
+    font-size: 30px;
+    font-family: "impact";
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
