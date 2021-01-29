@@ -1,0 +1,80 @@
+body{
+    background-image:url(../images/sirotairu.jpg);
+}
+div.title{
+    width: 1000px;
+    height: 70px;
+    background-color:dimgrey;
+    font-size: 50px;
+    margin-bottom:20px;
+    text-align: center;
+    font-family: "Impact";
+    margin-left: 20px;
+    
+}
+
+div.jyanru{
+    width: 700px;
+    height: 60px;
+    background-color:beige;
+    font-size: 40px;
+    margin-bottom:50px;
+    text-align: center;
+    margin-left: 200px;
+    font-family: "impact";
+}
+
+
+div.center{
+   font-size: 0px;
+}
+div.menuitem{
+    vertical-align:top;
+    display:inline-block;
+    text-align: center;
+    font-family: "Impact";
+}
+div.menu{
+    width:250px;
+    height:70px;
+    margin-bottom: 30px;
+    font-size:30px;
+    background-color:azure;
+}
+
+div.imageblock{
+    vertical-align:top;
+    display:inline-block;
+    margin-left: 50px;
+}
+
+div.image{
+    width:700px;
+    height:280px;
+    font-size: 35px;
+}
+div.imagesetumei{
+    background-color:aliceblue;
+    width:700px;
+    height:120px; 
+    font-size:15px;
+    font-family: "impact";
+    text-align: center;
+    
+    
+}
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color:dimgrey;
+    font-size: 30px;
+    font-family: "impact";
+    text-align: right;
+    margin-bottom: 
+    
+}
+div.wrap{
+width : 1000px;
+margin : 0px auto;
+}
